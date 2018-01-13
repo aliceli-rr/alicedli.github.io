@@ -1,13 +1,25 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2018-01-13
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
+<center> Hi, I'm Alice. Welcome to my site!</center>
+
+
+<!---    
+<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+-->
+
+I am a 4th year Statistics and Risk Management student at University of Waterloo with a passion in data science and statistical modelling.
+
+Currently I am working as a Data Scientist co-op in RBC's Cyber Analytics team, where I work with cybersecurity experts to develop and implement machine learning algorithms to identify complex threat scenarios. 
+
+Feel free to shoot me an email if you'd like to chat with me.
+
+<!---
 ## Features
 * Minimal, you can focus on your content
 * Responsive
@@ -19,6 +31,7 @@ comments: false
 * Optional background image
 * Simple navigation menu
 * MathJax support
+
 
 ## Preview
 
@@ -35,3 +48,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-->
