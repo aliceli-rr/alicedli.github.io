@@ -13,11 +13,15 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 -->
 
-I am a 4th year Statistics and Risk Management student at University of Waterloo with a passion in data science and statistical modelling.
+I am a 4th year Statistics & PRM Double Major, CS Minor student at University of Waterloo with a passion in data science and statistical modelling. Coming from a math olympiad background, I love solving challenging problems and applying creativity in statistical analyses.
 
-Currently I am working as a Data Scientist co-op in RBC's Cyber Analytics team, where I work with cybersecurity experts to develop and implement machine learning algorithms to identify complex threat scenarios. 
+Currently I am working as a Data Scientist co-op in RBC's Cyber Analytics team, where I work with cybersecurity experts to develop and implement machine learning algorithms to identify complex threat scenarios.
 
-Feel free to shoot me an email if you'd like to chat with me.
+Some fields of study I am familiar with are classification, generalized linear models, stochastic processes, real analysis, computational statistics and big data. I also have a background in finance, particularly in quantitative risk management. 
+
+A fun fact about me would be that I used be a part-time accordion musician and loved performing gigs with my quartet over the town. Sounds pretty random, right?
+
+There's still so much more I would love to learn and explore in the data science and in life. Feel free to shoot me an email if you'd like to chat with me.
 
 <!---
 ## Features
